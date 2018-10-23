@@ -1,0 +1,8 @@
+## local config
+component:
+  name: 'test_component'
+
+## ci config
+ci:
+  mapping:
+    - '.'
